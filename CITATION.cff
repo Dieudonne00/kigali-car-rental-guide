@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Travel resources for Rwanda"
+title: "Rwanda Travel Resources Guide"
+version: 1.0.0
+date-released: 2026-04-30
+references:
+  - type: website
+    title: "Rent Cars Kigali - Car Rental Rwanda"
+    url: "https://carrentalinkigali.com/"
